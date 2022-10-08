@@ -84,3 +84,6 @@ body {
 .content-text {
   margin-bottom: 52px;
 }
+.second-section {
+	display: flex;
+}
