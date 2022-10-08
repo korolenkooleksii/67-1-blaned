@@ -74,8 +74,7 @@ body {
   font-size: 56px;
   line-height: 69px;
   margin-bottom: 36px;
-  max
-
+  max-width: 443px;
   color: #000000;
 }
 .content-wrapper {
@@ -85,5 +84,37 @@ body {
   margin-bottom: 52px;
 }
 .second-section {
-	display: flex;
+  display: flex;
+}
+
+.container-2 {
+  max-width: 1170px;
+  margin: 0 auto;
+}
+
+.presents {
+  padding-top: 96px;
+  padding-bottom: 137px;
+}
+.presents-title {
+  text-align: center;
+  margin-bottom: 23px;
+}
+.presents-text {
+  text-align: center;
+  margin-bottom: 64px;
+}
+.presents-list {
+  display: flex;
+  gap: 30px;
+}
+.presents-item {
+}
+.present-item-wrapper {
+  padding: 24px;
+}
+.presents-item-title {
+  margin-bottom: 74px;
+}
+.presents-item-text {
 }
